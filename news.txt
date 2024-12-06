@@ -1,5 +1,5 @@
-ElementEvil - NEWS 
-=========== 
+ElementEvil - NEWS \r\n
+=========== \n
 1. Vurnata e originalnata tochka (po 39 choveka) 
 2. Dobaven e timer za da ne mogat da skachat 2 ili 
 poveche hora ednovremenno na tochkata 
