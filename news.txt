@@ -1,2 +1,2 @@
-Line 1\n
+Line 1 ????q
 Line 2
