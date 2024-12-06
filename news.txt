@@ -1,7 +1,7 @@
 ElementEvil - NEWS                                        
 ===========                                                               
-1. Vurnata e originalnata tochka (po 39 choveka)
-2. Dobaven e timer za da ne mogat da skachat 2 ili
+1. Vurnata e originalnata tochka (po 39 choveka)                          
+2. Dobaven e timer za da ne mogat da skachat 2 ili                        
 poveche hora ednovremenno na tochkata
 3. Dobavena e Neutral zonata ot Bulga 5.5
 4. Forbidden zonata ostava tam shte e novoto GK na
