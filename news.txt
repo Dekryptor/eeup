@@ -1,4 +1,4 @@
-ElementEvil - NEWS/newline
+ElementEvil - NEWS & vbCrLf
 ===========
 
 1. Vurnata e originalnata tochka (po 39 choveka)
