@@ -8,7 +8,7 @@ poveche hora ednovremenno na tochkata
 mqstoto na staroto                                                       
 5. Upgrade na pushki se hvashtat ot Engineer              
 6. Za planovete ne se iziskva kills, samo korab s       
-dostatuchno range                                                     
+dostatuchno range                                                        
 7. Normalizirano e praveneto na exp                            
 8. Mystery Box veche davat ot 50 do 250k i ot 1 do 10   
 exp                                                     
