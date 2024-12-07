@@ -2,17 +2,17 @@ ElementEvil - NEWS
 ===========                                                               
 1. Vurnata e originalnata tochka (po 39 choveka)          
 2. Dobaven e timer za da ne mogat da skachat 2 ili      
-poveche hora ednovremenno na tochkata
-3. Dobavena e Neutral zonata ot Bulga 5.5
-4. Forbidden zonata ostava tam shte e novoto GK na
-mqstoto na staroto
-5. Upgrade na pushki se hvashtat ot Engineer
-6. Za planovete ne se iziskva kills, samo korab s
-dostatuchno range
-7. Normalizirano e praveneto na exp
-8. Mystery Box veche davat ot 50 do 250k i ot 1 do 10
-exp
-9. Mystery Box veche shte vi davat ship samo ako
+poveche hora ednovremenno na tochkata                   
+3. Dobavena e Neutral zonata ot Bulga 5.5               
+4. Forbidden zonata ostava tam shte e novoto GK na      
+mqstoto na staroto                                      
+5. Upgrade na pushki se hvashtat ot Engineer            
+6. Za planovete ne se iziskva kills, samo korab s       
+dostatuchno range                                       
+7. Normalizirano e praveneto na exp                     
+8. Mystery Box veche davat ot 50 do 250k i ot 1 do 10   
+exp                                                     
+9. Mystery Box veche shte vi davat ship samo ako        
 imate dostatuchno exp za nego
 10. Argonaut korabi se hvashtat ot novoto GK vuv
 Forbidden zonata
