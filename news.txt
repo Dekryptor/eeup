@@ -5,7 +5,7 @@ ElementEvil - NEWS
 poveche hora ednovremenno na tochkata                   
 3. Dobavena e Neutral zonata ot Bulga 5.5                  
 4. Forbidden zonata ostava tam shte e novoto GK na    
-mqstoto na staroto                                                    
+mqstoto na staroto                                                      
 5. Upgrade na pushki se hvashtat ot Engineer              
 6. Za planovete ne se iziskva kills, samo korab s       
 dostatuchno range                                       
